@@ -9,16 +9,16 @@
 4. [Dataset](#p4)
 ![Happy](link_to_happy_image)
 ![Angry](link_to_angry_image)
-![Neutral](link_to_your_neutral_image)
+![Neutral](link_to_neutral_image)
 
 <a id="p1"></a>
 # Description:
-> Unlocking Emotions: A Journey with MyEmotionAI
+> Unlocking Emotions: A Journey with MyEmotionDetector
 
-Embark on a fascinating journey into the realm of emotions with MyEmotionAI. This project delves into the intricate landscape of human expressions, decoding the subtle nuances that make us unique. Emotions are not static; they ebb and flow, intertwining in a dance of joy, surprise, and everything in between.
+Embark on a fascinating journey into the realm of emotions with MyEmotionDetecor. This project delves into the intricate landscape of human expressions, decoding the subtle nuances that make us unique. Emotions are not static; they ebb and flow, intertwining in a dance of joy, surprise, and everything in between.
 
 ## Unveiling Emotion Recognition
-In the digital age, MyEmotionAI leverages advanced image processing and sophisticated algorithms to read the emotional tapestry portrayed on a human face. Beyond just identifying emotions, it reveals the dynamic probabilities of blended feelings, adding a layer of depth to our understanding.
+In the digital age, MyEmotionDetecor leverages advanced image processing and sophisticated algorithms to read the emotional tapestry portrayed on a human face. Beyond just identifying emotions, it reveals the dynamic probabilities of blended feelings, adding a layer of depth to our understanding.
 
 <a id="p2"></a>
 # Installations:
