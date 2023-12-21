@@ -1,14 +1,14 @@
 # how-to-build-an-emotional-detector-using-python
 
-# Project Name: MyEmotionAI
+# Project Name: MyEmotionDetecor
 
 # Table of Contents:
 1. [Description](#p1)
 2. [Installations](#p2)
 3. [Usage](#p3)
 4. [Dataset](#p4)
-![Happy](link_to_your_happy_image)
-![Angry](link_to_your_angry_image)
+![Happy](link_to_happy_image)
+![Angry](link_to_angry_image)
 ![Neutral](link_to_your_neutral_image)
 
 <a id="p1"></a>
