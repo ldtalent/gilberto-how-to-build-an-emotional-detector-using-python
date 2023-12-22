@@ -1,4 +1,3 @@
-# how-to-build-an-emotional-detector-using-python
 
 # Project Name: MyEmotionDetecor
 
