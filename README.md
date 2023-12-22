@@ -7,9 +7,9 @@
 2. [Installations](#p2)
 3. [Usage](#p3)
 4. [Dataset](#p4)
-![Happy](link_to_happy_image)
-![Angry](link_to_angry_image)
-![Neutral](link_to_neutral_image)
+![Happy]
+![Angry]
+![Neutral]
 
 <a id="p1"></a>
 # Description:
